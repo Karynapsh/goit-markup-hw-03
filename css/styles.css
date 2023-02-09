@@ -180,6 +180,8 @@ img {
   color: var(--navy-blue);
 }
 .team-list {
+  display: flex;
+  justify-content: space-between;
 }
 .team-item {
 }
